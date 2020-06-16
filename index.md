@@ -1,8 +1,8 @@
 ## About Me
 
-<img class="profile-picture" src="self0.jpeg">
+<img class="profile-picture" src="self.jpeg">
 
-Hi, I'm Yi Cui. I am a senior(4th) year undergraduate student in Fudan University, China, majored in Economics. 
+Hi, I'm Yuexin Zhang, an astro PhD candidate @ Kapteyn Astronomical Institute, University of Groningen, the Netherlands. 
 
 <br>
 
