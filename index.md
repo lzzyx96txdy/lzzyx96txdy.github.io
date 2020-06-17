@@ -8,7 +8,7 @@ Hi, I'm Yuexin Zhang, an astro PhD candidate @ Kapteyn Astronomical Institute, U
 
 ## Research Interest
 
-My research mainly focus on observational high energy X-ray astrophysics. I am interested in the the physical phenomena resulted from the accretion onto compact objects. By using spectral and timing analysis of the X-ray data, we may better understand the accretion modes, the disc-corona behaviors, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects.
+My researches mainly focus on observational high energy X-ray astrophysics. I am interested in the the physical phenomena resulted from the accretion onto compact objects. By using spectral and timing analysis of the X-ray data, we may better understand the accretion modes, the disc-corona behaviors, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects, and most importantly, the fundamental physics.
 
 <!-- > While all of these areas are easy to start with, it is quite complicated to further digest and do research. Previous efforts may push us towards ultimate goal.
 > - With the confusing actual problems, how to solve these questions remains unknown.
@@ -16,15 +16,27 @@ My research mainly focus on observational high energy X-ray astrophysics. I am i
 >
 > And I am on the way of these explorations and I have reach some achievements. -->
 
+## Employment
+
+
+
 ## Education
 
-<b>Fudan University,</b> 2015.9 - 2017.6  <b>Mechanical Engineering</b>
+<tr>
+            <td>
+                <!--左侧内容-->
+                左侧
+            </td>
+            <td>
+                <!--右侧内容-->
+                右侧
+            </td>
+        </tr>
+ <b>Economics</b> <b>Fudan University,</b> 2015.9 - 2019.6  
 
-<b>Fudan University,</b> 2017.6 - 2020.6  <b>Economics</b>
+<b>Fudan University,</b> 2015.9 - 2019.6  <b>Physics</b>
 
-<b>Fudan University,</b> 2017.6 - 2020.6  <b>Data Science</b> (Minor)
-
-<b>University of California, Los Angeles</b>, 2017.8 - 2017.12
+<b>University of Hamburg</b>, 2018.7
 
 ## Conference
 
