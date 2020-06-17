@@ -18,21 +18,21 @@ My researches mainly focus on observational high energy X-ray astrophysics. I am
 
 ## Employment
 
-<b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10 - now
+<b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10--now
 
 PhD employee
 
-<b>Shanghai Astronomical Observatory, CAS, CN</b> 2019.6 -- 2019.9
+<b>Shanghai Astronomical Observatory, CAS, CN</b> 2019.6--2019.9
 
 Summer visiting student
 
 ## Education
 
-<b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10 - now
+<b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10--now
 
 PhD candidate in Astronomy
 
-<b>Department of Physics, Fudan University, CN</b> 2015.9 - 2019.6
+<b>Department of Physics, Fudan University, CN</b> 2015.9--2019.6
 
 B.S. (<i>Honor</i>) in Physics
 
@@ -42,7 +42,7 @@ Summer student
 
 ## Honors
 
-- CSC and UoG Joint Scolarship, 2019 - 2023
+- CSC and UoG Joint Scolarship, 2019--2023
 
 - Shanghai Outstanding Graduate, 2019
 
@@ -50,21 +50,11 @@ Summer student
 
 [Click here to see full publication list on INSPIRE-HEP](https://inspirehep.net/authors/1767018#with-citation-summary)
 
-## Conference
+## Conferences
 
+1. (Recent Progress in Relativistic Astrophysics, Shanghai, CN.)[https://www.tat.physik.uni-tuebingen.de/blackholes2019/Home.html] 6--8 May 2019
 
-
-1. The Eighth China Youth Economic Forum, Peking University, Beijing, P.R. China. 
-
-   May 2019
-
-2. The Seventh SIIFC International Forum, Shanghai, P.R. China. 
-
-   April 2019
-
-   Paper: The Impact of Green Credit on the Development of Regional Industrial Structure
-
-    [SIIFC Slides 2019](https://cymichael.github.io/resources/SIIFC_Yi_Cui_2019.pdf)
+2. (The Future of X-ray Timing, Amsterdam, NL.)[https://api.uva.nl/conferences-2019/the-future-of-x-ray-timing/the-future-of-x-ray-timing.html?cb] 21--25 October 2019
 
 <!-- ## Patents
 
@@ -156,9 +146,9 @@ Summer student
      
      [Outstanding Tengfei Award](http://www.fdcollege.fudan.edu.cn/_upload/article/files/37/cb/ff787aee4a29afd56aeefb8ccce2/59594abd-692e-4383-ae25-858c6ff87fbb.pdf) -->
 
-## Publications
+<!-- ## Publications
 
-1. Incoming
+1. Incoming -->
 
 
 
