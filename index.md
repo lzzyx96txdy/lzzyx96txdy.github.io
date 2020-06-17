@@ -4,7 +4,7 @@
 
 Hi, I'm Yuexin Zhang, an astro PhD candidate @ Kapteyn Astronomical Institute, University of Groningen, the Netherlands. 
 
-<!-- <br> -->
+<br>
 
 ## Research Interest
 
@@ -36,8 +36,19 @@ PhD candidate in Astronomy
 
 B.S. (<i>Honor</i>) in Physics
 
-<b>University of Hamburg</b>, 2018.7
+<b>University of Hamburg, DE</b>, 2018.7
+
 Summer student
+
+## Honors
+
+- CSC and UoG Joint Scolarship, 2019 - 2023
+
+- Shanghai Outstanding Graduate, 2019
+
+## Publications
+
+[Click here to see full publication list on INSPIRE-HEP](https://inspirehep.net/authors/1767018#with-citation-summary)
 
 ## Conference
 
@@ -55,7 +66,7 @@ Summer student
 
     [SIIFC Slides 2019](https://cymichael.github.io/resources/SIIFC_Yi_Cui_2019.pdf)
 
-## Patents
+<!-- ## Patents
 
 [Details about Patents](https://cymichael.github.io/resources/patent_details.html)
 
@@ -65,9 +76,9 @@ Summer student
 
 2. National Patent-F, First Inventor, ***Yi Cui***, 2018
 
-   Application Number/Patent Number: 201811304193.4
+   Application Number/Patent Number: 201811304193.4 -->
 
-## Teaching Assistant
+<!-- ## Teaching Assistant
 
 1. Macroeconomics (EMAE620005.01)
 
@@ -97,9 +108,9 @@ Summer student
 
    - <u>Graduate Level</u>
 
-     See more resources on the e-learning system (**Canvas**).
+     See more resources on the e-learning system (**Canvas**). -->
 
-## Research & Interns
+<!-- ## Research & Interns
 
 1. [Junior Research Assistant](https://aims.cuhk.edu.hk/converis/portal/Person/97321951?auxfun=&lang=zh_HK), From Jul. 2019 to Sep. 2019
 
@@ -143,7 +154,7 @@ Summer student
 
      [Project Result](https://mp.weixin.qq.com/s/aCEUwctWMN2SiWNSwq9tDQ)
      
-     [Outstanding Tengfei Award](http://www.fdcollege.fudan.edu.cn/_upload/article/files/37/cb/ff787aee4a29afd56aeefb8ccce2/59594abd-692e-4383-ae25-858c6ff87fbb.pdf)
+     [Outstanding Tengfei Award](http://www.fdcollege.fudan.edu.cn/_upload/article/files/37/cb/ff787aee4a29afd56aeefb8ccce2/59594abd-692e-4383-ae25-858c6ff87fbb.pdf) -->
 
 ## Publications
 
@@ -151,7 +162,7 @@ Summer student
 
 
 
-## Projects
+<!-- ## Projects
 - GitHub Eye: 
     - [GitHub Eye, Hack × FDU 2016](https://github.com/cyMichael/GithubEye)
 - Flipped
@@ -170,9 +181,9 @@ Summer student
   - [Project Paper(95/100) Top 3%](https://cymichael.github.io/resources/Final_Project_UCLA_MAE271A.pdf)
 
 - Project(Fudan University, 2018 Fall)
-  - [Thesis Proposal](https://cyMichael.github.io/resources/Thesis_Proposal.pdf)
+  - [Thesis Proposal](https://cyMichael.github.io/resources/Thesis_Proposal.pdf) -->
 
-## Paper for Mathematical Contest
+<!-- ## Paper for Mathematical Contest
 
 1. [2017_MCM](https://cymichael.github.io/resources/55238_2017MCM_YiCui.pdf)
 
@@ -184,21 +195,11 @@ Summer student
 
 5. [2018_National_Contest](https://cymichael.github.io/resources/A201809001088_National_YiCui_2018.pdf)
 
-*. [Problem Sets of National Contest(2016-2018)](https://cymichael.github.io/resources/National Mathematical Contest Problems(2016-2018).pdf)
-
-## Honors
-
-- [National Mathematics Model Contest, Second Prize, 2016](http://www.fdcollege.fudan.edu.cn/b5/9e/c9395a112030/page.htm)
-- [National Mathematics Model Contest, Third Prize, 2017](http://www.jwc.fudan.edu.cn/13/20/c9395a135968/page.htm)
-- [MCM/ICM Honor Prize, 2018](https://cymichael.github.io/resources/A201809001088_National_YiCui_2018.pdf)
-- [MCM/ICM Third Prize, 2017](55238_2017MCM.pdf)
-- [Xi Yuan Program: Outstanding](http://www.fdurop.fudan.edu.cn/projDetail.php?gk=6235&sk=7303&st=3)
-- [Assistant Counselor, Fudan University, 2017](http://www.stuaff.fudan.edu.cn/cf/b6/c10070a118710/page.htm)
-- [Tengfei Award, No. 1st](http://www.fdcollege.fudan.edu.cn/_upload/article/files/37/cb/ff787aee4a29afd56aeefb8ccce2/59594abd-692e-4383-ae25-858c6ff87fbb.pdf)
+*. [Problem Sets of National Contest(2016-2018)](https://cymichael.github.io/resources/National Mathematical Contest Problems(2016-2018).pdf) -->
 
 
 
-## Advice
+<!-- ## Advice
 
 - [Linear Algebra, Fudan Math Department](https://www.cnblogs.com/torsor/p/10292081.html)
 
@@ -207,6 +208,6 @@ Summer student
 - Proficient: Python, PyTorch, MATLAB, AutoCAD
 - Skilled: STATA, C++, Tensorflow, Web/Android Development
 - Independent research ability
-- English
+- English -->
   <br>
 
