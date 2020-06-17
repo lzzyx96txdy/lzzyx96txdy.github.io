@@ -4,7 +4,7 @@
 
 Hi, I'm Yuexin Zhang, an astro PhD candidate @ Kapteyn Astronomical Institute, University of Groningen, the Netherlands. 
 
-<br>
+<!-- <br> -->
 
 ## Research Interest
 
@@ -18,23 +18,15 @@ My researches mainly focus on observational high energy X-ray astrophysics. I am
 
 ## Employment
 
-
+PhD employee, Kapteyn Astronomical Institute, University of Groningen, 2019.10 - now
 
 ## Education
 
-<tr>
-            <td>
-                <!--左侧内容-->
-                左侧
-            </td>
-            <td>
-                <!--右侧内容-->
-                右侧
-            </td>
-        </tr>
- <b>Economics</b> <b>Fudan University,</b> 2015.9 - 2019.6  
+<b>University of Groningen,</b> 2019.10 - now
+Astro PhD candidate
 
-<b>Fudan University,</b> 2015.9 - 2019.6  <b>Physics</b>
+<b>Department of Physics, Fudan University,</b> 2015.9 - 2019.6
+B.S. in Physics (<i>Honor</i>)
 
 <b>University of Hamburg</b>, 2018.7
 
