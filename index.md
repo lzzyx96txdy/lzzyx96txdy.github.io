@@ -8,13 +8,13 @@ Hi, I'm Yuexin Zhang, an astro PhD candidate @ Kapteyn Astronomical Institute, U
 
 ## Research Interest
 
-My research interests mainly lie on Economics Research combined with Data Science. My current research focus is mainly on Mechanism Design, Asset Portfolio and Microeconomic Theory. 
+My research mainly focus on observational high energy X-ray astrophysics. I am interested in the the physical phenomena resulted from the accretion onto compact objects. By using spectral and timing analysis of the X-ray data, we may better understand the accretion modes, the disc-corona behaviors, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects.
 
-> While all of these areas are easy to start with, it is quite complicated to further digest and do research. Previous efforts may push us towards ultimate goal.
+<!-- > While all of these areas are easy to start with, it is quite complicated to further digest and do research. Previous efforts may push us towards ultimate goal.
 > - With the confusing actual problems, how to solve these questions remains unknown.
 > - Structual modeling of problem, complex relationships and simulation processes in the structure of the models.
 >
-> And I am on the way of these explorations and I have reach some achievements.
+> And I am on the way of these explorations and I have reach some achievements. -->
 
 ## Education
 
