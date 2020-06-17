@@ -52,9 +52,9 @@ Summer student
 
 ## Conferences
 
-1. [Recent Progress in Relativistic Astrophysics, Shanghai, CN.](https://www.tat.physik.uni-tuebingen.de/blackholes2019/Home.html) 6--8 May 2019
+1. [Recent Progress in Relativistic Astrophysics](https://www.tat.physik.uni-tuebingen.de/blackholes2019/Home.html), Shanghai, CN. 6--8 May 2019
 
-2. [The Future of X-ray Timing, Amsterdam, NL.](https://api.uva.nl/conferences-2019/the-future-of-x-ray-timing/the-future-of-x-ray-timing.html?cb) 21--25 Oct 2019
+2. [The Future of X-ray Timing](https://api.uva.nl/conferences-2019/the-future-of-x-ray-timing/the-future-of-x-ray-timing.html?cb), Amsterdam, NL. 21--25 Oct 2019
 
 <!-- ## Patents
 
