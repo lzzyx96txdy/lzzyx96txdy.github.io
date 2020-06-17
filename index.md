@@ -18,17 +18,26 @@ My researches mainly focus on observational high energy X-ray astrophysics. I am
 
 ## Employment
 
-PhD employee, Kapteyn Astronomical Institute, University of Groningen, 2019.10 - now
+<b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10 - now
+
+PhD employee
+
+<b>Shanghai Astronomical Observatory, CAS, CN</b> 2019.6 -- 2019.9
+
+Summer visiting student
 
 ## Education
 
-<b>University of Groningen,</b> 2019.10 - now
-Astro PhD candidate
+<b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10 - now
 
-<b>Department of Physics, Fudan University,</b> 2015.9 - 2019.6
-B.S. in Physics (<i>Honor</i>)
+PhD candidate in Astronomy
+
+<b>Department of Physics, Fudan University, CN</b> 2015.9 - 2019.6
+
+B.S. (<i>Honor</i>) in Physics
 
 <b>University of Hamburg</b>, 2018.7
+Summer student
 
 ## Conference
 
