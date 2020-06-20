@@ -42,7 +42,7 @@ Summer student
 
 ## Honors
 
-- CSC and UoG Joint Scolarship, 2019--2023
+- CSC and UoG Joint Scholarship, 2019--2023
 
 - Shanghai Outstanding Graduate, 2019
 
