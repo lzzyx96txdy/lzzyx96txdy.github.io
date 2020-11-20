@@ -20,17 +20,21 @@ My research mainly focus on observational high energy astrophysics. I am interes
 
 <b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10--now
 
-PhD employee
+PhD Employee
+
+<b>Department of Physics, Fudan University, CN</b> 2020.7-2020.12
+
+Visiting Researcher
 
 <b>Shanghai Astronomical Observatory, CAS, CN</b> 2019.6--2019.9
 
-Summer visiting student
+Summer Visiting Student
 
 ## Education
 
 <b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10--now
 
-PhD candidate in Astronomy
+PhD Candidate in Astronomy
 
 <b>Department of Physics, Fudan University, CN</b> 2015.9--2019.6
 
@@ -38,7 +42,7 @@ B.S. (<i>Honor</i>) in Physics
 
 <b>University of Hamburg, DE</b>, 2018.7
 
-Summer student
+Summer Student
 
 ## Honors
 
@@ -57,6 +61,10 @@ Summer student
 1. [Recent Progress in Relativistic Astrophysics](https://www.tat.physik.uni-tuebingen.de/blackholes2019/Home.html), Shanghai, CN. 6--8 May 2019
 
 2. [The Future of X-ray Timing](https://api.uva.nl/conferences-2019/the-future-of-x-ray-timing/the-future-of-x-ray-timing.html?cb), Amsterdam, NL. 21--25 Oct 2019
+
+3. [Accretion 2020 @ Fudan](https://accretion2020.fudan.edu.cn/), Shanghai, CN. 21--23 Oct 2020 (online meeting)
+
+4. [China-India Workshop on High Energy Astrophysics](https://ch-inhea.fudan.edu.cn/), Shanghai, CN. 6--8 Nov 2020 (online meeting)
 
 <!-- ## Patents
 
