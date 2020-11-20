@@ -42,9 +42,11 @@ Summer student
 
 ## Honors
 
-- CSC and UoG Joint Scholarship, 2019--2023
+- CSC and UoG Joint PhD Scholarship, 2019--2023
 
 - Shanghai Outstanding Graduate, 2019
+
+- Wangdao Scholar (named after the former president of Fudan, 陈望道), 2019
 
 ## Publications
 
