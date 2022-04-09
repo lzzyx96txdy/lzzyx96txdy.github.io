@@ -2,7 +2,7 @@
 
 <img class="profile-picture" src="self.jpeg">
 
-Hi, I'm Yuexin Zhang, an astro PhD candidate @ Kapteyn Astronomical Institute, University of Groningen, the Netherlands. 
+Hi, I'm Yuexin Zhang, born in Zhongxiang, Hubei Province, China. Now I work as an astro PhD candidate @ Kapteyn Astronomical Institute, University of Groningen, the Netherlands. 
 
 <br>
 
@@ -21,6 +21,10 @@ My research mainly focus on observational high energy astrophysics. I am interes
 <b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10--now
 
 PhD Employee
+
+<b>Institute of High-Energy Physics, CAS, CN</b> 2020.7-now
+
+Visiting Researcher
 
 <b>Department of Physics, Fudan University, CN</b> 2020.7-2020.12
 
@@ -54,13 +58,15 @@ Summer Student
 
 ## Publications
 
-[Click here to see full publication list on INSPIRE-HEP](https://inspirehep.net/authors/1767018#with-citation-summary)
+[Click here to see full publication list in ORCID.](https://orcid.org/0000-0002-2268-9318)
 
 ## Conferences
 
-1. [China-India Workshop on High Energy Astrophysics](https://ch-inhea.fudan.edu.cn/), Shanghai, CN. 6--8 Nov 2020 (online meeting)
+1. [Chinese Astrophysics Annual Meeting](https://mp.weixin.qq.com/s/sTRpiiAR9av1QilltNhZLg), Nanchong, CN. 2--6 Dec 2021
 
-1. [Accretion 2020 @ Fudan](https://accretion2020.fudan.edu.cn/), Shanghai, CN. 21--23 Oct 2020 (online meeting)
+1. [China-India Workshop on High Energy Astrophysics](https://ch-inhea.fudan.edu.cn/), Shanghai, CN. 6--8 Nov 2020
+
+1. [Accretion 2020 @ Fudan](https://accretion2020.fudan.edu.cn/), Shanghai, CN. 21--23 Oct 2020
 
 1. [The Future of X-ray Timing](https://api.uva.nl/conferences-2019/the-future-of-x-ray-timing/the-future-of-x-ray-timing.html?cb), Amsterdam, NL. 21--25 Oct 2019
 
