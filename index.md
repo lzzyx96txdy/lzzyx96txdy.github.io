@@ -22,7 +22,7 @@ My research mainly focus on observational high energy astrophysics. I am interes
 
 PhD Employee
 
-<b>Institute of High-Energy Physics, CAS, CN</b> 2020.7-now
+<b>Institute of High-Energy Physics, CAS, CN</b> 2021.3-now
 
 Visiting Researcher
 
