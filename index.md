@@ -22,11 +22,11 @@ My research mainly focus on observational high energy astrophysics. I am interes
 
 PhD Employee
 
-<b>Institute of High-Energy Physics, CAS, CN</b> 2021.3-now
+<b>Institute of High-Energy Physics, CAS, CN</b> 2021.3--now
 
 Visiting Researcher
 
-<b>Department of Physics, Fudan University, CN</b> 2020.7-2020.12
+<b>Department of Physics, Fudan University, CN</b> 2020.7--2020.12
 
 Visiting Researcher
 
