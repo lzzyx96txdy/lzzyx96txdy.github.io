@@ -8,7 +8,7 @@ Hi, I'm Yuexin Zhang, born in Zhongxiang, Hubei Province, China. Now I work as a
 
 ## Research Interest
 
-My research mainly focus on observational high energy astrophysics. I am interested in the physical phenomena that results from accretion onto compact objects. By analyzing spectral and timing data of X-ray, we can better understand the accretion modes, the disc-corona-jet behavior, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects, and studying general-relativistic effects in the vicinity of compact objects
+My research mainly focus on observational high energy astrophysics. I am interested in the physical phenomena that result from accretion onto compact objects. By analyzing spectral and timing data of X-ray, we can better understand the accretion modes, the disc-corona-jet behavior, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects, and studying general-relativistic effects in the vicinity of compact objects
 
 <!-- > While all of these areas are easy to start with, it is quite complicated to further digest and do research. Previous efforts may push us towards ultimate goal.
 > - With the confusing actual problems, how to solve these questions remains unknown.
