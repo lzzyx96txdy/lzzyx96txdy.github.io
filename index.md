@@ -8,7 +8,7 @@ Hi, I'm Yuexin Zhang, born in Zhongxiang, Hubei Province, China. Now I work as a
 
 ## Research Interest
 
-My research mainly focus on observational high energy astrophysics. I am interested in the physical phenomena that results from accretion onto compact objects. By analysing spectral and timing data of X-ray, we can better understand the accretion modes, the disc-corona behavior, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects, and studying general-relativistic effects in the vicinity of compact objects
+My research mainly focus on observational high energy astrophysics. I am interested in the physical phenomena that results from accretion onto compact objects. By analyzing spectral and timing data of X-ray, we can better understand the accretion modes, the disc-corona-jet behavior, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects, and studying general-relativistic effects in the vicinity of compact objects
 
 <!-- > While all of these areas are easy to start with, it is quite complicated to further digest and do research. Previous efforts may push us towards ultimate goal.
 > - With the confusing actual problems, how to solve these questions remains unknown.
@@ -16,7 +16,7 @@ My research mainly focus on observational high energy astrophysics. I am interes
 >
 > And I am on the way of these explorations and I have reach some achievements. -->
 
-## Employment
+<!-- ## Employment
 
 <b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10--now
 
@@ -32,9 +32,9 @@ Visiting Researcher
 
 <b>Shanghai Astronomical Observatory, CAS, CN</b> 2019.6--2019.9
 
-Summer Visiting Student
+Summer Visiting Student -->
 
-## Education
+<!-- ## Education
 
 <b>Kapteyn Astronomical Institute, University of Groningen, NL</b> 2019.10--now
 
@@ -46,21 +46,21 @@ B.S. (<i>Honor</i>) in Physics
 
 <b>University of Hamburg, DE</b>, 2018.7
 
-Summer Student
+Summer Student -->
 
-## Honors
+<!-- ## Honors
 
 - CSC and UoG Joint PhD Scholarship, 2019--2023
 
 - Shanghai Outstanding Graduate, 2019
 
-- Wangdao Scholar (named after the former president of Fudan, 陈望道), 2019
+- Wangdao Scholar (named after the former president of Fudan, 陈望道), 2019 -->
 
 ## Publications
 
 [Click here to see full publication list in ORCID.](https://orcid.org/0000-0002-2268-9318)
 
-## Conferences
+<!-- ## Conferences
 
 1. [Chinese Astrophysics Annual Meeting](https://mp.weixin.qq.com/s/sTRpiiAR9av1QilltNhZLg), Nanchong, CN. 2--6 Dec 2021
 
@@ -70,7 +70,7 @@ Summer Student
 
 1. [The Future of X-ray Timing](https://api.uva.nl/conferences-2019/the-future-of-x-ray-timing/the-future-of-x-ray-timing.html?cb), Amsterdam, NL. 21--25 Oct 2019
 
-1. [Recent Progress in Relativistic Astrophysics](https://www.tat.physik.uni-tuebingen.de/blackholes2019/Home.html), Shanghai, CN. 6--8 May 2019
+1. [Recent Progress in Relativistic Astrophysics](https://www.tat.physik.uni-tuebingen.de/blackholes2019/Home.html), Shanghai, CN. 6--8 May 2019 -->
 
 
 
