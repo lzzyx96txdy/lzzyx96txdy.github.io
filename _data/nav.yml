@@ -1,5 +1,8 @@
-- name: "Contact"
-  link: "contact"
+- name: "Projects"
+  link: "projects"
 
 - name: "CV"
   link: 'https://lzzyx96txdy.github.io/resources/CV.pdf'
+
+- name: "Contact"
+  link: "contact"
