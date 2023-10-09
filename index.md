@@ -10,7 +10,7 @@ I obtained BSc (honor) in physics at Fudan University in 2019 and then PhD in as
 
 ## Research Interest
 
-My research mainly focuses on observational high-energy astrophysics. I am interested in the physical phenomena that result from accretion onto compact objects. By analyzing spectral and timing data from X-ray band to radio band, we can better understand the accretion modes, the disc-corona-jet behavior, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects, and studying general-relativistic effects in the vicinity of compact objects.
+My research mainly focuses on observational high-energy astrophysics. I am interested in the physical phenomena that result from accretion onto compact objects. By analyzing spectral-timing-polarimetric data from X-ray band to radio band, we can better understand the accretion modes, the disc-corona-jet behavior, disc winds, origin of relativistic jets, and etc., which contribute to our understanding of the geometry around and of the compact objects, and studying general-relativistic effects in the vicinity of compact objects.
 
 <!-- > While all of these areas are easy to start with, it is quite complicated to further digest and do research. Previous efforts may push us towards ultimate goal.
 > - With the confusing actual problems, how to solve these questions remains unknown.
