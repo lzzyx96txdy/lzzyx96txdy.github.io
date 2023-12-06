@@ -4,7 +4,7 @@
 
 Hi, I'm Yuexin Zhang, born in Zhongxiang, Hubei Province, China. Zhongxiang (Chengtian Fu) is the birth place of the Jiajing Emperor in the Ming Dynasty, thus making it politically equal to Beijing (Shuntian Fu) and Nanjing (Yingtian Fu) in the 16th-17th century. You may know Jiajing from the classic TV series [Ming Dynasty in 1566](https://en.wikipedia.org/wiki/Ming_Dynasty_in_1566), which I also feel like a mirror of modern China.
 
-I obtained BSc (honor) in physics at Fudan University in 2019 and then PhD in astronomy at Kapteyn Astronomical Institute, University of Groningen in 2023. Now I am a NWO Rubicon Postdoctoral Fellow at the Center for Astrophysics, Harvard \& Smithsonian.
+I obtained BSc (honor) in physics at Fudan University in 2019 and then PhD in astronomy at Kapteyn Astronomical Institute, University of Groningen in 2023. Now I am a NWO Rubicon Postdoctoral Fellow at the Center for Astrophysics, Harvard & Smithsonian.
 
 <br>
 
