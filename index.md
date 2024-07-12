@@ -60,7 +60,7 @@ Summer Student -->
 
 ## Publications
 
-[Click here to see full publication list in ORCID.](https://orcid.org/0000-0002-2268-9318)
+[Click here to see full publication list in ORCID. ](https://orcid.org/0000-0002-2268-9318)
 
 <!-- ## Conferences
 
